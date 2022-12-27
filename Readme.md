@@ -17,3 +17,7 @@
     - Remove all navbar.css in all html head tag
     - Add text-secondary to all checkbox label
     - Remove Shadow from checkbox because it broke the checkbox
+## Changelog 3
+    - Change the font to Sora
+    - Remove font awesome because its not working
+    - Finish Card in index.html
