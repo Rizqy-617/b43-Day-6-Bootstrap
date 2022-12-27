@@ -16,3 +16,4 @@
     - Just use one css, that is style.css
     - Remove all navbar.css in all html head tag
     - Add text-secondary to all checkbox label
+    - Remove Shadow from checkbox because it broke the checkbox
