@@ -8,3 +8,7 @@ body {
     background-color: #E2E6EA;
 }
 
+.btn.btn-primary.active {
+    background-color: orangered !important;
+}
+
