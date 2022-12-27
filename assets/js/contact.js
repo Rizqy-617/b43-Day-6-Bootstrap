@@ -1,4 +1,6 @@
-function submitData() {
+function submitData(event) {
+    event.preventDefault
+
     // Mengambil data dari ID
     let name = document.getElementById("name").value ;
     let email = document.getElementById("email").value ;
