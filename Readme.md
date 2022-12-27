@@ -10,3 +10,9 @@
 ## Changelog 2
     - Add Shadow to all input box in contact.html
     - Finish Contact and Navbar
+    - Finish Add Project Page
+    - Add Shadow to all input box in myProject.html
+    - Remove myProject.css, navbar.css, contact.css, and project-detail.css
+    - Just use one css, that is style.css
+    - Remove all navbar.css in all html head tag
+    - Add text-secondary to all checkbox label
