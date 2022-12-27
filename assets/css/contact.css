@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #E2E6EA;
+    background-color: #E2E6EA !important;
 }
 
 .btn.btn-primary.active {
