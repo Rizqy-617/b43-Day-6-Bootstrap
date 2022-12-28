@@ -21,3 +21,5 @@
     - Change the font to Sora
     - Remove font awesome because its not working
     - Finish Card in index.html
+    - Change Navbar and input background
+    - Finish My Project Card
